@@ -1,0 +1,15 @@
+{
+    "name": "luanl/extract-tranform-load",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LuanLuizLLs",
+            "email": "luanluiz.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}

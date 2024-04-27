@@ -1,5 +1,5 @@
 {
-    "name": "luanl/extract-tranform-load",
+    "name": "luanl/extract-tranform-load-ocp",
     "autoload": {
         "psr-4": {
             "App\\": "src/"

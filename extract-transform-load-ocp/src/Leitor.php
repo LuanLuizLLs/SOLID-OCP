@@ -27,7 +27,7 @@ class Leitor {
     $caminho = $this->getDiretorio().'/'.$this->getArquivo();
     $extensao = explode('.', $this->getArquivo());
 
-    $classe = '\YesOCP\extrator\\'.ucfirst($extensao[1]);
+    $classe = '\YesOCP\components\\'.ucfirst($extensao[1]);
 
     return call_user_func_array(
       [

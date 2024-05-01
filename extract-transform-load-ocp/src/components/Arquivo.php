@@ -1,6 +1,6 @@
 <?php 
 
-namespace YesOCP\extrator;
+namespace YesOCP\components;
 
 class Arquivo {
 

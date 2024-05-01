@@ -1,8 +1,8 @@
 {
-    "name": "luanl/extract-tranform-load-ocp",
+    "name": "luanl/extract-transform-load-ocp",
     "autoload": {
         "psr-4": {
-            "App\\": "src/"
+            "ExtractTransformLoadOcp\\": "src/"
         }
     },
     "authors": [

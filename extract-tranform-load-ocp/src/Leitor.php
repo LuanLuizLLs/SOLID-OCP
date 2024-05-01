@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace ExtractTransformLoadOcp;
 
 class Leitor {
 
@@ -27,7 +27,7 @@ class Leitor {
     $caminho = $this->getDiretorio().'/'.$this->getArquivo();
     $extensao = explode('.', $this->getArquivo());
 
-    $classe = '\App\extrator\\'.ucfirst($extensao[1]);
+    $classe = '\ExtractTransformLoadOcp\extrator\\'.ucfirst($extensao[1]);
 
     return call_user_func_array(
       [

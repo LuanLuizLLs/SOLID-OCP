@@ -4,7 +4,7 @@ require __DIR__.'/vendor/autoload.php';
 
 use App\Leitor;
 
-echo '<h2>Sem o Princípio Aberto/Fechado </h2>';
+echo '<h2>Sem o Princípio Aberto/Fechado</h2>';
 
 echo '<h3>Lendo arquivo CSV</h3>';
 

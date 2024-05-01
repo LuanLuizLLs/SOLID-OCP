@@ -2,7 +2,7 @@
     "name": "luanl/extract-transform-load",
     "autoload": {
         "psr-4": {
-            "ExtractTransformLoad\\": "src/"
+            "NoOCP\\": "src/"
         }
     },
     "authors": [

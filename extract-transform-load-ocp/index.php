@@ -2,7 +2,7 @@
 
 require __DIR__.'/vendor/autoload.php';
 
-use ExtractTransformLoadOcp\Leitor;
+use YesOCP\Leitor;
 
 echo '<h2>Com o Princípio Aberto/Fechado</h2>';
 

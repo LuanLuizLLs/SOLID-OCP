@@ -1,6 +1,6 @@
 <?php 
 
-namespace ExtractTransformLoadOcp\extrator;
+namespace YesOCP\extrator;
 
 class Arquivo {
 

@@ -2,7 +2,7 @@
     "name": "luanl/extract-transform-load-ocp",
     "autoload": {
         "psr-4": {
-            "ExtractTransformLoadOcp\\": "src/"
+            "YesOCP\\": "src/"
         }
     },
     "authors": [

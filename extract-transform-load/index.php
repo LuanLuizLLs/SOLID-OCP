@@ -2,7 +2,7 @@
 
 require __DIR__.'/vendor/autoload.php';
 
-use ExtractTransformLoad\Leitor;
+use NoOCP\Leitor;
 
 echo '<h2>Sem o Princípio Aberto/Fechado</h2>';
 
